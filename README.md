@@ -15,7 +15,7 @@ Usage
 6. Save the exported JSON to a text file (utf-8 encoded)
 
 ### Converting JSON to XML
-```
+```bash
 git clone https://github.com/valhallasw/clipperz-to-keepass
 cd clipperz-to-keepass
 virtualenv venv
